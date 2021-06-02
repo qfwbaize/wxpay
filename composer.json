@@ -1,0 +1,11 @@
+{
+    "name": "qfwbaize/wxpay",
+    "description": "zheshiyigewxpay",
+    "authors": [
+        {
+            "name": "白泽",
+            "email": "741499810@qq.com"
+        }
+    ],
+    "require": {}
+}
