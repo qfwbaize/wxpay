@@ -1,11 +1,16 @@
 {
     "name": "qfwbaize/wxpay",
-    "description": "zheshiyigewxpay",
+    "description": "this is wxpay",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "白泽",
             "email": "741499810@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4":{"wxpay\\":"src"}
+    }
 }
